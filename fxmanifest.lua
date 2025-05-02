@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Your Name'
-description 'Burger Shot Location UI'
+author 'Alain'
+description 'Job Drawtext  UI'
 version '1.0.0'
 
 client_scripts {
